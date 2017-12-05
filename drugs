@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+        <style>
+        p { color:rgb(49, 171, 27); }   
+        h1 { color:rgb(49, 171, 27);}
+        h2 { color:rgb(49, 171, 27); }
+        body { background-color:rgb(110, 26, 26); }
+        </style>
+    </head>
+    <body>
+
+        <h1>Happy Holidays!!</h1>
+        <h2>Happy Holidays</h2>
+       <p>I just want to wish you a happy holidays<br> and a happy New Years</p>
+        <img src="https://www.kasandbox.org/programming-images/seasonal/hopper-reindeer.png" alt="Happy Hopper Reindeer" width="100">
+    </body>
+</html>
